@@ -1,7 +1,7 @@
 pierwszy
 
-def some_funct()
+def some_funct(a,7)
 
   a = 1
-  b= 2
+  b= 45
   c= 4
