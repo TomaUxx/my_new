@@ -2,6 +2,6 @@ pierwszy
 
 def some_funct(a,7)
 
-  a = 1
-  b= 45
-  c= 4
+  a = 432
+  d= 45
+  c= d
