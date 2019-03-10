@@ -1,8 +1,9 @@
 pierwszy
 
-def some_funct(a,y)
+
+def some_funct(a,7)
 
   a = 432
-  g= 45659
-  c= dfs
-  d : dsada
+  d= 45
+  c= d
+
