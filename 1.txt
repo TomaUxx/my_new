@@ -1,1 +1,8 @@
 pierwszy
+
+def some_funct(a,y)
+
+  a = 432
+  g= 45659
+  c= dfs
+  d : dsada
